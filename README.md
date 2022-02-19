@@ -1,4 +1,5 @@
-### Olá! Eu sou o Lucas Wesley e obrigado por me visitar.
+### <h1 align="center">Olá! Eu sou o Lucas Wesley e obrigado por me visitar.</h1>
+<p>Tenho 28 anos</p>
  <div align="center">
   <a href="https://github.com/DevWesly">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevWesly&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -14,6 +15,7 @@
   ##
   
   <div> 
+   <p>📫 Como me encontrar:</p>
   <a href="https://www.youtube.com/channel/UCDSCXQ7R0aSNFFMkXU7ajaw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
             <a href="mailto:dev.lucaswesley@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="img"></a>
             <a href="https://www.linkedin.com/in/devwesly"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="img"></a>
@@ -25,7 +27,7 @@
     
    
  
-  ![Snake animation](https://github.com/rafaballerini/DevWesly/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/rafaballerini/DevWesly/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
 <!--
@@ -38,7 +40,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+ ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
