@@ -1,5 +1,4 @@
 ### <h1 align="center">Olá! Eu sou o Lucas Wesley e obrigado por me visitar.</h1>
-<p>Tenho 28 anos</p>
  <div align="center">
   <a href="https://github.com/DevWesly">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevWesly&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
